@@ -79,5 +79,4 @@ fields:
   hidden: true
   default: home
 pages:
-- test-landing-page.html
 - index.md
